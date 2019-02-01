@@ -12,7 +12,7 @@ let addWindow;
 
 // change
 
-// cristiano
+// cristiano2
 
 // Listen for app to be ready
 app.on('ready',function(){
