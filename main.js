@@ -12,6 +12,8 @@ let addWindow;
 
 // change
 
+// cristiano
+
 // Listen for app to be ready
 app.on('ready',function(){
     // Create new window
