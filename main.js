@@ -10,10 +10,6 @@ process.env.NODE_ENV = 'production';
 let mainWindow;
 let addWindow;
 
-// change
-
-// cristiano2
-
 // Listen for app to be ready
 app.on('ready',function(){
     // Create new window
